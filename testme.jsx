@@ -6,3 +6,4 @@ let y = "hobie cat";
 console.log(y);
 let z = "third time is a charm"
 console.log(z);
+console.log('apple')
